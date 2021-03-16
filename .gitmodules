@@ -1,0 +1,3 @@
+[submodule "StationAPI"]
+	path = StationAPI
+	url = https://github.com/ModificationStation/StationAPI

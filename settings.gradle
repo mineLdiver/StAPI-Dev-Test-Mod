@@ -1,0 +1,2 @@
+include "stationapi"
+project(":stationapi").projectDir = file("StationAPI")
